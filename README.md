@@ -43,5 +43,7 @@ hasil_deskripsi_karakter = [kodeascii(biner_ke_desimal(biner)) for biner in decr
 decimal_results = [biner_ke_desimal(b) for b in result]
 ascii_results = [kodeascii(d) for d in decimal_results]
 ```
+## Hasil
+![Screenshot (py)]
 
 ### TERIMAKASIH
