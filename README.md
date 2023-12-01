@@ -44,6 +44,6 @@ decimal_results = [biner_ke_desimal(b) for b in result]
 ascii_results = [kodeascii(d) for d in decimal_results]
 ```
 ## Hasil
-![Screenshot (py)]
+<img width="670" alt="py" src="https://github.com/zhafiraak/kriptografi_otp/assets/92495285/bb1b249b-9ff1-406a-8430-d337a435682f">
 
 ### TERIMAKASIH
